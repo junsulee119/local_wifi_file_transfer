@@ -1,5 +1,5 @@
 """
-multi_file_http_server.py
+local_wifi_file_transfer.py
 
 A Python script (with tkinter GUI) that:
 1. Lets the user select multiple files to share at once.
